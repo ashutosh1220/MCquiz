@@ -1,1 +1,1 @@
-# MCquiz
+# MCquizz
